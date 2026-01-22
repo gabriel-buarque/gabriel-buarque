@@ -31,6 +31,6 @@
 ## 🌐 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-buarque-888101301?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - 🌐 [Portfólio](https://seusite.com)
-- 📧 Email: bielbuarque@outlook.com
+- 📧 bielbuarque@outlook.com
 
 
