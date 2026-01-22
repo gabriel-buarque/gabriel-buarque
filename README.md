@@ -28,9 +28,9 @@
 
 ---
 
-## 📊 GitHub Stats
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-buarque&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-buarque&layout=compact&theme=tokyonight)
-
+## 🌐 Contato
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-buarque-888101301?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- 🌐 [Portfólio](https://seusite.com)
+- 📧 Email: bielbuarque@outlook.com
 
 
