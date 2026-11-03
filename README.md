@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Data+Science+%7C+Python+%7C+SQL;Transformando+dados+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
 </p>
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU 🎓
+  Estudante de Análise e Desenvolvimento de Sistemas🎓
   <br>
   Estagiário em Ciência de Dados na Cimento Nassau 💼
 </p>
@@ -22,16 +22,6 @@
 ⸻
 
 🛠️ Tecnologias e ferramentas
-
-🐍 Linguagens e Desenvolvimento
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
 
 📊 Data Science e Visualização
 
